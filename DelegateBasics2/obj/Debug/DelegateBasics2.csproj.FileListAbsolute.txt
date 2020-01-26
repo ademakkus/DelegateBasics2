@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics2\DelegateBasics2\bin\Debug\DelegateBasics2.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics2\DelegateBasics2\bin\Debug\DelegateBasics2.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics2\DelegateBasics2\bin\Debug\DelegateBasics2.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics2\DelegateBasics2\obj\Debug\DelegateBasics2.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics2\DelegateBasics2\obj\Debug\DelegateBasics2.pdb
